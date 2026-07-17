@@ -1,0 +1,45 @@
+\contentsline {section}{\numberline {1}The problem in plain language}{3}{section.1}%
+\contentsline {section}{\numberline {2}Mathematical toolkit I: probability, surprise, and information}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Random variables, distributions, expectation}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Entropy: measuring uncertainty}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Conditional entropy and mutual information}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Mathematical toolkit II: reinforcement learning in one section}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The loop}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Value functions and the critic}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}SAC, the workhorse we use everywhere}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Skill-conditioning}{6}{subsection.3.4}%
+\contentsline {section}{\numberline {4}The three landmark methods, and the flaw in each}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}DIAYN (2019): reward being identifiable}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}DADS (2020): reward being predictable}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}METRA (2024): reward going far}{9}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Mathematical toolkit III: optimal transport}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Three rulers for the same question}{11}{subsection.5.1}%
+\contentsline {paragraph}{Euclidean distance: compare the lists, entry by entry.}{11}{section*.2}%
+\contentsline {paragraph}{Temporal distance: count the steps.}{11}{section*.3}%
+\contentsline {paragraph}{Wasserstein distance: price the earth-moving.}{11}{section*.4}%
+\contentsline {subsection}{\numberline {5.2}The earth mover's problem}{12}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}The formal definition}{12}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}The one-dimensional miracle}{13}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Our method: TMSD}{14}{section.6}%
+\contentsline {subsection}{\numberline {6.1}The two ingredients}{14}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}What we believed, and what we pre-registered}{14}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}The testbed}{15}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}How the state is represented: four layers}{15}{subsection.6.4}%
+\contentsline {section}{\numberline {7}The experiments}{15}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Experiment 1 — Does anything emerge at all?}{15}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Experiment 2 — Is the transport metric doing the work?}{16}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Experiment 3 — Then what IS doing the work?}{17}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Experiment 4 — The metric's second chance (2D measure)}{17}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Experiment 5 — Composing skills into goals (zero-shot shaping)}{18}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Experiment 6 — DIAYN on soil (the MI $2\times 2$)}{19}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Experiment 7 — DADS on soil}{21}{subsection.7.7}%
+\contentsline {subsection}{\numberline {7.8}The unifying law: materials are slow states}{21}{subsection.7.8}%
+\contentsline {subsection}{\numberline {7.9}Experiment 8 — Where it honestly breaks (and why)}{22}{subsection.7.9}%
+\contentsline {subsection}{\numberline {7.10}The full frontier comparison}{22}{subsection.7.10}%
+\contentsline {paragraph}{$\mu $ (``mu'') — the soil, written as a list of numbers.}{22}{section*.6}%
+\contentsline {paragraph}{$\phi $ (``phi'') — the learned summary of $\mu $.}{23}{section*.7}%
+\contentsline {paragraph}{Latent trajectory / latent spread.}{23}{section*.8}%
+\contentsline {paragraph}{The coverage matrix — all skill pairs, one grid.}{24}{section*.9}%
+\contentsline {section}{\numberline {8}What is actually new here (novelty statement)}{24}{section.8}%
+\contentsline {section}{\numberline {9}Limitations and what comes next}{26}{section.9}%
+\contentsline {section}{\numberline {A}Appendix: reproduction guide}{27}{appendix.A}%

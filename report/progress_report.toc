@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Background: teaching robots without teaching}{4}{0}{1}
+\beamer@sectionintoc {2}{Three generations of methods, three definitions of ``different''}{7}{0}{2}
+\beamer@sectionintoc {3}{Our idea: measure diversity in units of moved material}{12}{0}{3}
+\beamer@sectionintoc {4}{The experimental campaign, step by step}{18}{0}{4}
+\beamer@sectionintoc {5}{The full comparison}{28}{0}{5}
+\beamer@sectionintoc {6}{Demonstration}{35}{0}{6}
+\beamer@sectionintoc {7}{Where this goes}{38}{0}{7}
